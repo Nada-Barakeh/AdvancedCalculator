@@ -1,0 +1,61 @@
+--- Advanced Calculator ---
+1. Add (+)
+2. Subtract (-)
+3. Multiply (*)
+4. Divide (/)
+5. Square Root (√)
+6. Natural Log (ln)
+7. Log base 10 (log)
+8. Sin (degrees)
+9. Cos (degrees)
+10. Tan (degrees)
+11. Power (x^y)
+12. Factorial (!)
+0. Exit
+Choose an option: 1
+Enter first number: 15
+Enter second number: 25
+Result: 40.0
+
+--- Advanced Calculator ---
+1. Add (+)
+2. Subtract (-)
+3. Multiply (*)
+4. Divide (/)
+5. Square Root (√)
+6. Natural Log (ln)
+7. Log base 10 (log)
+8. Sin (degrees)
+9. Cos (degrees)
+10. Tan (degrees)
+11. Power (x^y)
+12. Factorial (!)
+0. Exit
+Choose an option: 4
+Enter first number: 10
+Enter second number: 0
+Error: Cannot divide by zero!
+
+--- Advanced Calculator ---
+1. Add (+)
+2. Subtract (-)
+3. Multiply (*)
+4. Divide (/)
+5. Square Root (√)
+6. Natural Log (ln)
+7. Log base 10 (log)
+8. Sin (degrees)
+9. Cos (degrees)
+10. Tan (degrees)
+11. Power (x^y)
+12. Factorial (!)
+0. Exit
+Choose an option: 12
+Enter a positive integer: 5
+Result: 120.0
+
+--- Advanced Calculator ---
+1. Add (+)
+...
+Choose an option: 0
+Goodbye!
